@@ -1,6 +1,22 @@
 # AI_File_Formats
 File_Formats  about AI
 
+## input file formats
+.tar.gz
+
+.csv
+
+.txt
+
+*.png
+
+*.jpg
+
+*.json
+ 
+*.wav
+ 
+ 
 ## model file formats
 
 *.onnx
